@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: "PeerAssessment_1"
 author: "KP"
 date: "Sunday, June 14, 2015"
@@ -51,3 +52,29 @@ with(int_totals,
 ## Are there differences in activity patterns between weekdays and weekends?
 
 
+=======
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
+---
+
+
+## Loading and preprocessing the data
+
+
+
+## What is mean total number of steps taken per day?
+
+
+
+## What is the average daily activity pattern?
+
+
+
+## Imputing missing values
+
+
+
+## Are there differences in activity patterns between weekdays and weekends?
+>>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
